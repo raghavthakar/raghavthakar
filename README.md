@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Lover of Robotics🤖, student of Computer Science💻. 
+Lover of Robotics 🤖, student of Computer Science 💻. 
   
 🏢 [LinkedIn](https://www.linkedin.com/in/raghavthakar/)
