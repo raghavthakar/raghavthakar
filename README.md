@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Raghav! 👋
 
 <!--
 **raghavthakar/raghavthakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Lover of Robotics🤖, student of Computer Science💻. 
+  
+🏢 [LinkedIn](https://www.linkedin.com/in/raghavthakar/)
