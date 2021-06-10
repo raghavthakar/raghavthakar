@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Lover of Robotics 🤖, student of Computer Science 💻. 
   
-🌐 [Portfolio](raghavthakar.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👔 [LinkedIn](https://www.linkedin.com/in/raghavthakar/)
+🌐 [Portfolio](https://raghavthakar.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👔 [LinkedIn](https://www.linkedin.com/in/raghavthakar/)
