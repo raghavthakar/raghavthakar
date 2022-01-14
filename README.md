@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Lover of Robotics 🤖, student of Computer Science 💻. 
+Lover of Robotics 🤖, student of Computer Science 💻.
   
-🌐 [Portfolio](https://raghavthakar.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👔 [LinkedIn](https://www.linkedin.com/in/raghavthakar/)
+🌐 [Portfolio](https://thakar.xyz)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👔 [LinkedIn](https://www.linkedin.com/in/raghavthakar/)
